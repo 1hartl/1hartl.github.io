@@ -1,18 +1,5 @@
 ---
-# Display name
 title: Liam W. Hart
-
-# Full name (for SEO)
-first_name: Liam
-last_name: Hart
-
-# Is this the primary user of the site?
-superuser: true
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-# Role/position/tagline
 role: PhD Student in Psychology
 
 # Organizations/Affiliations to display in Biography blox
@@ -21,7 +8,6 @@ organizations:
     url: https://sites.gatech.edu/liaolab/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: envelope
     url: 'mailto:lhart39@gatech.edu'
@@ -47,7 +33,7 @@ education:
     summary: |
       Thesis focused on age-related changes in autobiographical memory. Supervised by [Hsiao-Wen Liao, PhD](https://psychology.gatech.edu/people/hsiao-wen-liao).
     button:
-      text: 'Read Thesis'
+      text: 'My Thesis on high and low points'
       url: 'https://example.com'
   - area: BS Psychology
     institution: Grand Valley State University
@@ -64,7 +50,7 @@ education:
       text: 'Paper on argumentative writing and beliefs'
       url: 'https://link.springer.com/article/10.1007/s11251-024-09663-x'
       
-research interests:
+interests:
   - Autobiographical Memory
   - Cognitive Aging
   - Natural Language Processing
@@ -121,7 +107,6 @@ languages:
     percent: 25
 
 # Awards.
-#   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
@@ -132,6 +117,20 @@ awards:
     icon: neuromatch
     summary: |
       Completed an intensive, hands-on deep learning course with a focus on Natural Language Processing (NLP). Gained practical experience with modern NLP architectures, including BERT and GPT, and explored topics such as tokenization, fine-tuning, and prompt engineering. Collaborated on a group project applying deep learning techniques to NLP tasks, enhancing skills in PyTorch.
+
+
+
+
+# MISCELLANEOUS
+# Full name (for SEO)
+first_name: Liam
+last_name: Hart
+
+# Is this the primary user of the site?
+superuser: true
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 ## About Me
