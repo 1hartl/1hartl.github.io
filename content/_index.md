@@ -18,6 +18,7 @@ sections:
       button:
         text: Download CV
         url: uploads/LWH_CV_20250520.pdf
+        css_class: center-button
     design:
       css_class: dark
       background:
