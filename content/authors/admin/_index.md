@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Liam W. Hart
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Liam Hart
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Liam
+last_name: Hart
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧠🔍📖🌱🧓
 
 # Is this the primary user of the site?
 superuser: true
