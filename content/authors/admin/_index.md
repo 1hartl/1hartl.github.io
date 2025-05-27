@@ -84,19 +84,23 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
+        description: 'numpy, matplotlib, seaborn, pandas, sklearn, pytorch, transformers'
         percent: 50
         icon: python
       - name: Statistics in R
-        description: ''
+        description: 'tidyverse packages, lme4, stm'
         percent: 50
         icon: r-project
+      - name: Natural Language Processing
+        description: 'Fine-tuning language models for classification'
+        percent: 60
+        icon: square-binary
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Climbing & Mountaineering
-        description: 'Aspiring alpinist'
+        description: 'Mainly sport and trad, some ice'
         percent: 75
         icon: mountain
       - name: Music
@@ -104,7 +108,7 @@ skills:
         percent: 40
         icon: music
       - name: TV & Movies
-        description: 'Send me recs'
+        description: 'Send me recs!'
         percent: 30
         icon: film
 
