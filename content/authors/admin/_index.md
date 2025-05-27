@@ -90,7 +90,7 @@ skills:
       - name: Statistics in R
         description: 'tidyverse packages, lme4, stm'
         percent: 50
-        icon: r-project
+        icon: brands/r-project
       - name: Natural Language Processing
         description: 'Fine-tuning language models for classification'
         percent: 60
