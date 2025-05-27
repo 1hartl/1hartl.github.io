@@ -80,7 +80,7 @@ skills:
       - name: Statistics in R
         description: ''
         percent: 50
-        icon: Rlogo
+        icon: assets/media/icons/Rlogo
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -88,15 +88,15 @@ skills:
       - name: Climbing & Mountaineering
         description: 'Aspiring alpinist'
         percent: 75
-        icon: climbing
+        icon: assets/media/icons/climbing
       - name: Music
         description: 'Rap, Rock, and Indie'
         percent: 40
-        icon: music
+        icon: assets/media/icons/music
       - name: TV & Movies
         description: 'Send me recs'
         percent: 30
-        icon: film
+        icon: assets/media/icons/film
 
 languages:
   - name: English
