@@ -2,9 +2,6 @@
 # Display name
 title: Liam W. Hart
 
-# Name pronunciation (optional)
-name_pronunciation: Liam Hart
-
 # Full name (for SEO)
 first_name: Liam
 last_name: Hart
