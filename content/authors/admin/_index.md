@@ -84,11 +84,11 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: 'numpy, matplotlib, seaborn, pandas, sklearn, pytorch, transformers'
+        description: 'seaborn, pandas, sklearn, pytorch, transformers'
         icon: brands/python
       - name: Statistics in R
         description: 'tidyverse packages, lme4, stm'
-        icon: brands/python
+        icon: brands/r-project
       - name: Natural Language Processing
         description: 'Fine-tuning language models for classification'
         icon: square-binary
