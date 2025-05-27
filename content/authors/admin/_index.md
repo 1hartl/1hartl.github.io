@@ -2,6 +2,16 @@
 title: Liam W. Hart
 role: PhD Student in Psychology
 
+# Full name (for SEO)
+first_name: Liam
+last_name: Hart
+
+# Is this the primary user of the site?
+superuser: true
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Georgia Institute of Technology
@@ -80,7 +90,7 @@ skills:
       - name: Statistics in R
         description: ''
         percent: 50
-        icon: assets/media/icons/Rlogo
+        icon: brands/r-project
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -117,22 +127,12 @@ awards:
     icon: neuromatch
     summary: |
       Completed an intensive, hands-on deep learning course with a focus on Natural Language Processing (NLP). Gained practical experience with modern NLP architectures, including BERT and GPT, and explored topics such as tokenization, fine-tuning, and prompt engineering. Collaborated on a group project applying deep learning techniques to NLP tasks, enhancing skills in PyTorch.
-
-
-
-
-# MISCELLANEOUS
-# Full name (for SEO)
-first_name: Liam
-last_name: Hart
-
-# Is this the primary user of the site?
-superuser: true
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
 ---
 
 ## About Me
 
-I am a PhD student in the Janus Lab at Georgia Tech. I am fascinated with minds, how they might work, and applying what we know about them to solve real-world problems.
+I am a PhD student in the Janus Lab at Georgia Tech. I am fascinated with minds, how they might work, and applying what we know about them to solve real-world problems. 
+
+The core focus of my research is autobiographical memory and its continuous development and change across the lifespan. Using natural language processing, I am able to combine the strengths of qualitative and quantitative methods to capture how we represent important life experiences in memory. 
+
+My favorite thing in the world is climbing and being outdoors. I strive to appreciate the world and people at all times. The most interesting things to me are that which I do not currently understand, and my favorite thing to do is work on understanding them.
