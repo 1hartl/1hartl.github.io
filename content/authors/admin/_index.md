@@ -8,7 +8,7 @@ name_pronunciation: Liam Hart
 # Full name (for SEO)
 first_name: Liam
 last_name: Hart
-˜
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -49,7 +49,7 @@ education:
   - area: PhD Psychology
     institution: Georgia Institute of Technology
     date_start: 2024-08-19
-    date_end: 2029-04-31
+    date_end: 2029-05-01
     summary: |
       Thesis on FORTHCOMING. Supervised by [Hsiao-Wen Liao, PhD](https://psychology.gatech.edu/people/hsiao-wen-liao). Presented at conferences and published papers in journals.
     button:
@@ -122,7 +122,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neuromatch Academy: Deep Learning
+  - title: Neuromatch Academy Deep Learning Course
     url: https://neuromatch.io/deep-learning-course/
     date: '2025-07-25'
     awarder: Neuromatch Academy
