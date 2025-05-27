@@ -86,11 +86,11 @@ skills:
       - name: Python
         description: ''
         percent: 50
-        icon: code-bracket
+        icon: python
       - name: Statistics in R
         description: ''
         percent: 50
-        icon: Rlogo
+        icon: r-project
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -98,7 +98,7 @@ skills:
       - name: Climbing & Mountaineering
         description: 'Aspiring alpinist'
         percent: 75
-        icon: climbing
+        icon: mountain
       - name: Music
         description: 'Rap, Rock, and Indie'
         percent: 40
