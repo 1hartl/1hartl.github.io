@@ -29,7 +29,7 @@ profiles:
   - icon: brands/x
     url: https://x.com/Liam_hartt
   - icon: brands/github
-    url: https://github.com/1hartl
+    url: https://github.com/liam-hart
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/liam-hart-322124175/
   - icon: academicons/google-scholar
@@ -37,7 +37,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/my-orcid?orcid=0009-0000-2422-914X
 
-interests:
+research interests:
   - Autobiographical Memory
   - Cognitive Aging
   - Natural Language Processing
@@ -63,6 +63,9 @@ education:
       - Computing and Graphics with R
       - Multivariate Data Analysis
       - Philosophy of Mind
+    button:
+      text: 'Paper on argumentative writing and beliefs'
+      url: 'https://link.springer.com/article/10.1007/s11251-024-09663-x'
 work:
   - position: Research Coordinator
     company_name: Henry Ford Health
@@ -85,26 +88,26 @@ skills:
         description: ''
         percent: 50
         icon: code-bracket
-      - name: R
+      - name: Statistics in R
         description: ''
         percent: 50
-        icon: chart-bar
+        icon: Rlogo
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Climbing
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Pottery
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Something else
-        description: ''
-        percent: 80
-        icon: camera
+      - name: Climbing & Mountaineering
+        description: 'Aspiring alpinist'
+        percent: 75
+        icon: climbing
+      - name: Music
+        description: 'Rap, Rock, and Indie'
+        percent: 40
+        icon: music
+      - name: TV & Movies
+        description: 'Send me recs'
+        percent: 30
+        icon: film
 
 languages:
   - name: English
@@ -130,4 +133,4 @@ awards:
 
 ## About Me
 
-Liam Hart is a PhD student in the Janus Lab at Georgia Tech. His research interests include autobiographical memory, cognitive aging, and natural language processing.
+I am a PhD student in the Janus Lab at Georgia Tech. I am fascinated with minds, how they might work, and applying this understanding to solve real-world problems.
