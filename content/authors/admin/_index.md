@@ -23,7 +23,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: envelope
     url: 'mailto:lhart39@gatech.edu'
     label: Email Me
   - icon: brands/x
@@ -34,13 +34,10 @@ profiles:
     url: https://www.linkedin.com/in/liam-hart-322124175/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=heRC7EQAAAAJ&hl=en
+  - icon: academicons/osf
+    url: https://osf.io/4kx9t/
   - icon: academicons/orcid
     url: https://orcid.org/my-orcid?orcid=0009-0000-2422-914X
-
-research interests:
-  - Autobiographical Memory
-  - Cognitive Aging
-  - Natural Language Processing
 
 education:
   - area: PhD Psychology
@@ -66,6 +63,12 @@ education:
     button:
       text: 'Paper on argumentative writing and beliefs'
       url: 'https://link.springer.com/article/10.1007/s11251-024-09663-x'
+      
+research interests:
+  - Autobiographical Memory
+  - Cognitive Aging
+  - Natural Language Processing
+
 work:
   - position: Research Coordinator
     company_name: Henry Ford Health
@@ -133,4 +136,4 @@ awards:
 
 ## About Me
 
-I am a PhD student in the Janus Lab at Georgia Tech. I am fascinated with minds, how they might work, and applying this understanding to solve real-world problems.
+I am a PhD student in the Janus Lab at Georgia Tech. I am fascinated with minds, how they might work, and applying what we know about them to solve real-world problems.
