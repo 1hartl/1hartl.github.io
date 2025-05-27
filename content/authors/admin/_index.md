@@ -51,7 +51,7 @@ education:
     date_start: 2024-08-19
     date_end: 2029-05-01
     summary: |
-      Thesis on FORTHCOMING. Supervised by [Hsiao-Wen Liao, PhD](https://psychology.gatech.edu/people/hsiao-wen-liao). Presented at conferences and published papers in journals.
+      Thesis focused on age-related changes in autobiographical memory. Supervised by [Hsiao-Wen Liao, PhD](https://psychology.gatech.edu/people/hsiao-wen-liao).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -73,11 +73,11 @@ work:
     company_logo: 'https://logowik.com/content/uploads/images/henry-ford-health6047.jpg'
     date_start: 2023-04-01
     date_end: '2024-07-01'
-    summary: |2-
+    summary: |
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Coordinated the BRIGHT Trial under Dr. Samantha Tam, managing operational and regulatory duties such as participant recruitment, IRB communication, and tracking patient appointments and compensation.
+      - Contributed to research projects, including a scoping review of care fragmentation in cancer patients, by reading and summarizing research articles.
+      - Data management, cleaning, and analysis for studies on the uses and benefits of Patient Reported Outcome Measures (PROMs) in cancer patient care.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
