@@ -88,7 +88,7 @@ skills:
         icon: brands/python
       - name: Statistics in R
         description: 'tidyverse packages, lme4, stm'
-        icon: brands/r-project
+        icon: brands/python
       - name: Natural Language Processing
         description: 'Fine-tuning language models for classification'
         icon: square-binary
@@ -98,13 +98,13 @@ skills:
     items:
       - name: Climbing & Mountaineering
         description: 'Mainly sport and trad, some ice'
-        icon: mountain
+        icon: solid/mountain
       - name: Music
         description: 'Rap, Rock, and Indie'
-        icon: music
+        icon: solid/music
       - name: TV & Movies
         description: 'Send me recs!'
-        icon: film
+        icon: solid/film
 
 languages:
   - name: English
