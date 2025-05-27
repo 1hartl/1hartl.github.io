@@ -85,7 +85,7 @@ skills:
     items:
       - name: Python
         description: 'numpy, matplotlib, seaborn, pandas, sklearn, pytorch, transformers'
-        icon: python
+        icon: brands/python
       - name: Statistics in R
         description: 'tidyverse packages, lme4, stm'
         icon: brands/r-project
