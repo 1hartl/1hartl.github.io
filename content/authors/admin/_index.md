@@ -91,7 +91,7 @@ skills:
         icon: brands/r-project
       - name: Natural Language Processing
         description: 'Fine-tuning language models for classification'
-        icon: square-binary
+        icon: solid/square-binary
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
